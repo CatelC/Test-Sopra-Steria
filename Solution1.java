@@ -7,6 +7,12 @@ public class Solution1 {
                 numero -=2;
             }
         }
+        else {
+            while(numero >0){
+                System.out.println(numero);
+                numero -= 2;
+            }
+        }
 
     }
       public static void main(String[] args){
